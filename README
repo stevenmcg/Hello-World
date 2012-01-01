@@ -1,0 +1,5 @@
+I already had Git setup on my computer so cannot comment on the instructions about that. 
+
+I ended up a little confused about keypairs in the GitHub setup, i use SSH for a few things so i didn't want to monkey about with my existing keypair (i.e. backup, delete and replace it), somehow i missed "Have an existing key pair? You can skip to Step 4." in Step 1.
+
+Other than that, it took me a couple of attempts to work out how to find out what my `git config --global user.name` was ;-) I was a little worried that if i didn't provide a value it would blank the value rather than returning the current value which was fortunately not the case. 
